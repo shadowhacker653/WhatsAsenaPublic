@@ -1,4 +1,4 @@
-``
+```
 Asena; Asena UserBot are names representing WhatsAsena software, they can be used interchangeably in the rest of the article.
 
 WhatsAsena - Asena Userbot is Open Source software open to development. 
@@ -29,7 +29,7 @@ is not responsible for the usage purpose and method of the users.
 Marketing WhatsAsena for money, making it available or having any material value
 It is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
 the user is responsible.
-``
+```
 
 <div align = "center">
   <img src = "https://i.ibb.co/9H56Ct5/20210305-083215.jpg" width = "200" height = "200">
@@ -44,12 +44,12 @@ the user is responsible.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-DEVIL/WhatsAsenaPublic)
 
 ### The Hard Method
-`` js
+``` js
 $ git clone https://github.com/TOXIC-DEVIL/WhatsAsenaPublic.git
 $ cd WhatsAsenaPublic
 $ npm i @ adiwajshing / baileys
 $ npm i chalk
 $ node qr.js
-``
+```
 
 ##
