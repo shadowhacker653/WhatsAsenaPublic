@@ -257,13 +257,16 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
 
         if (msg.messageStubType === 32 || msg.messageStubType === 28) {
             // Görüşürüz Mesajı
+            fs.readFileSync('plugins/sql/20210305_083215.jpg')
             var gb = await getMessage(msg.key.remoteJid, 'goodbye');
             if (gb !== false) {
+
                 await conn.sendMessage(msg.key.remoteJid, gb.message, MessageType.text);
             }
             return;
         } else if (msg.messageStubType === 27 || msg.messageStubType === 31) {
             // Hoşgeldin Mesajı
+            fs.readFileSync('plugins/sql/20210305_083215.jpg')
             var gb = await getMessage(msg.key.remoteJid);
             if (gb !== false) {
                 await conn.sendMessage(msg.key.remoteJid, gb.message, MessageType.text);
