@@ -1,6 +1,6 @@
-###What Is WhatsAsenaPublic
+### What Is WhatsAsenaPublic
 
-**▪︎The [Public Version](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic) [WhatsAsenaDuplicated](https://github.com/Phaticusthiccy/WhatsAsenaDuplicated) [ First Release which Deployed On Heroku ] 🐺**
+**▪︎The [Public Version](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic) Of [WhatsAsenaDuplicated](https://github.com/Phaticusthiccy/WhatsAsenaDuplicated) [ First Release which Deployed On Heroku ] 🐺**
 
 **▪︎Made By [TOXIC DEVIL](https://github.com/TOXIC-DEVIL)**
 
