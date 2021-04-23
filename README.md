@@ -1,3 +1,13 @@
+##What Is WhatsAsenaPublic
+
+**▪︎The Public Version WhatsAsena [ First Release which Deployed On Heroku ] 🐺**
+
+**▪︎Made By [TOXIC DEVIL](https://github.com/TOXIC-DEVIL)**
+
+**▪︎Added More Commands**
+
+**▪︎Helper [Phaticusthiccy](https://github.com/Phaticusthiccy)**
+
 ```
 Asena; Asena UserBot are names representing WhatsAsena software, they can be used interchangeably in the rest of the article.
 
@@ -41,15 +51,13 @@ the user is responsible.
 
 ### Simple Method
 
-[![Run on Repl.it](https://repl.it/badge/github/TOXIC-DEVIL/WhatsAsenaPublic)](https://replit.com/@TOXICDEVIL/WhatsAsenaPublic)
-
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-DEVIL/WhatsAsenaPublic)
 
 ### The Hard Method
 ``` js
 $ git clone https://github.com/TOXIC-DEVIL/WhatsAsenaPublic.git
 $ cd WhatsAsenaPublic
-$ npm i @ adiwajshing/baileys
+$ npm i @adiwajshing/baileys
 $ npm i chalk
 $ node qr.js
 ```
