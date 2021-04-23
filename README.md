@@ -18,7 +18,7 @@
 
 ### How To Set Up WhatsAsenaPublic
 
-**¤ To Set Up WhatsAsenaPublic Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#WhatsAsenaPublic)**
+**¤ To Set Up WhatsAsenaPublic Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#The-Simple-Method)**
 
 **¤ If You Are New In Making WhatsAsenaPublic Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic/wiki/How-To-Set-Up-WhatsAsenaPublic-%F0%9F%9B%A0%F0%9F%90%BA) & Read Those Things Written There...**
 
