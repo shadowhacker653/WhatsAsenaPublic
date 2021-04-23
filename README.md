@@ -47,7 +47,7 @@ the user is responsible.
 ``` js
 $ git clone https://github.com/TOXIC-DEVIL/WhatsAsenaPublic.git
 $ cd WhatsAsenaPublic
-$ npm i @ adiwajshing / baileys
+$ npm i @ adiwajshing/baileys
 $ npm i chalk
 $ node qr.js
 ```
