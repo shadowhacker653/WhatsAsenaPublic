@@ -4,7 +4,7 @@
 
 **■ To Know Features of WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#Features)**
 
-**■ To Know WhatsNew Commands in WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#WhatsNew)**
+**■ To Know WhatsNew Updated last in WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#WhatsNew)**
 
 **■ To Set Up WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#How-To-Set-Up-WhatsAsenaPublic)**
 
