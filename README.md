@@ -78,6 +78,49 @@ $ node qr.js
 
 ##
 
+### WhatsNew
+
+```
+ .randanime = It Sends Random anime 
+
+ .nekoanime = It Sends Random neko anime 
+
+ .dice = To Play Dice Game 
+
+ .mood = To Play Mood Game 
+
+ .effectimg = Set Of Commands Which Converts Text To Effective Images 
+
+ .glitch = It sends Glitch Style Image with the text provided
+
+ .underwater = It Send a ocean Image with the text provided 
+
+ .flower = It Sends a Flower image with the text provided 
+
+ .burn = It Sends a half burned paper image with the text provided
+
+ .candy = It Sends a candy image with the text provided 
+
+ .wood = It Sends a wood curved image with the text provided 
+
+ .latte = It Put the text as latte art with in coffee cup 
+
+ .8bit = converts the text into 8bit style image 
+
+ .shadow = Converts the text into shadow style image 
+
+ .harrypotter = Converts the text into harry potter image 
+
+ .sparkling = Converts the text into sparkling image 
+
+ .watercolour = converts text into watercolour image 
+
+ .ninjalogo = Added the given text to the ninja logo 
+
+ .neonlight = Converts the text into neon light image 
+
+ .3dtext = Converts the text into neon light image 
+```
 
 ### Features
 
