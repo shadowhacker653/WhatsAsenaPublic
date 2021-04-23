@@ -18,9 +18,9 @@
 
 ### How To Set Up WhatsAsenaPublic
 
-¤ To Set Up WhatsAsenaPublic Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#The-Hard-Method)
+**¤ To Set Up WhatsAsenaPublic Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#The-Hard-Method)**
 
-¤ If You Are New In Making WhatsAsenaPublic Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic/wiki/How-To-Set-Up-WhatsAsenaPublic-%F0%9F%9B%A0%F0%9F%90%BA) & Read Those Things Written There...
+**¤ If You Are New In Making WhatsAsenaPublic Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic/wiki/How-To-Set-Up-WhatsAsenaPublic-%F0%9F%9B%A0%F0%9F%90%BA) & Read Those Things Written There...**
 
 ```
 Asena; Asena UserBot are names representing WhatsAsena software, they can be used interchangeably in the rest of the article.
