@@ -1,3 +1,9 @@
+### Special Thanks To:
+
+[@Phaticusthiccy](https://github.com/Phaticusthiccy)
+
+[@TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)
+
 ### What Is WhatsAsenaPublic
 
 **▪︎The [Public Version](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic) Of [WhatsAsenaDuplicated](https://github.com/Phaticusthiccy/WhatsAsenaDuplicated) [ First Release which Deployed On Heroku ] 🐺**
