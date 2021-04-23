@@ -91,6 +91,8 @@ $ node qr.js
 ### WhatsNew
 
 ```
+ .note = Fixed Note ✅🛠
+
  .randanime = It Sends Random anime 
 
  .nekoanime = It Sends Random neko anime 
