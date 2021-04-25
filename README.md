@@ -89,7 +89,7 @@ $ node qr.js
 ### WhatsNew
 
 ```
- .audio = Converts Sound Recordijg To Audio
+ .audio = Converts Sound Recording To Audio
 
  .audio = Fixed Audio ✅🛠
 
