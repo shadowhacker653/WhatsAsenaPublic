@@ -336,9 +336,6 @@
             "UV_DESC": "Converts audio to sound recording.",
             "UV_REPLY": "*You Must Reply to an Audio File!*",
             "UV_PROC": "```Converting to Sound Recording..```"
-            "VV_DESC": "Converts Sound Recording to an Audio File.",
-            "VV_REPLY": "*You Must Reply to the Sound Recording!*",
-            "VV_PROC": "```Converting to an Audio File..```"
         },
         "ffmpeg": {
             "FF_DESC": "Applies the desired ffmpeg filter to the video.\n⌨️ Example: .ffmpeg fade=in:0:30",
