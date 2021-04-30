@@ -260,14 +260,14 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
             var gb = await getMessage(msg.key.remoteJid, 'goodbye');
             if (gb !== false) {
 
-                await conn.sendMessage(msg.key.remoteJid, gb.message, MessageType.text);
+                await conn.sendMessage(msg.key.remoteJid, '@' + user.split('@')[0] + ',';'\n', gb.message, MessageType.text);
             }
             return;
         } else if (msg.messageStubType === 27 || msg.messageStubType === 31) {
             // Hoşgeldin Mesajı
             var gb = await getMessage(msg.key.remoteJid);
             if (gb !== false) {
-                await conn.sendMessage(msg.key.remoteJid, gb.message, MessageType.text);
+                await conn.sendMessage(msg.key.remoteJid, '@' + user.split('@')[0] + ',';'\n', gb.message, MessageType.text);
             }
             return;
         }
