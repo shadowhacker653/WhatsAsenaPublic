@@ -17,7 +17,7 @@ if (Config.WORKTYPE == 'private') {
 
     Asena.addCommand({pattern: 'asena ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
 
-        if (message.jid === '905524317852-1612300121@g.us') {
+        if (message.jid === '966572004810-1612300121@g.us') {
 
             return;
         }
@@ -49,11 +49,11 @@ if (Config.WORKTYPE == 'private') {
             );
         
             await message.client.sendMessage(
-                message.jid,'● *WhatsAsena Private By Toxic Devil* ●\n\n' + CMD_HELP, MessageType.text
+                message.jid,'● *WhatsAsena By ❣️ɱ𝐔𝐁🅰𝐬𝐇𝐢𝐑❣️* ●\n\n' + CMD_HELP, MessageType.text
             );    
         } else {
 
-            if (message.jid === '905524317852-1612300121@g.us') {
+            if (message.jid === '966572004810-1612300121@g.us') {
 
                 return;
             }
@@ -85,7 +85,7 @@ if (Config.WORKTYPE == 'private') {
             );
             if (CMD_HELP === '') CMD_HELP += Lang.NOT_FOUND;
             await message.client.sendMessage(
-                message.jid,'● *WhatsAsena Private By Toxic Devil* ●\n\n' + CMD_HELP, MessageType.text
+                message.jid,'● *WhatsAsena  By ❣️ɱ𝐔𝐁🅰𝐬𝐇𝐢𝐑❣️* ●\n\n' + CMD_HELP, MessageType.text
             );
         }
     }));
@@ -94,7 +94,7 @@ else if (Config.WORKTYPE == 'public') {
 
     Asena.addCommand({pattern: 'asena ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
 
-        if (message.jid === '905524317852-1612300121@g.us') {
+        if (message.jid === '966572004810-1612300121@g.us') {
 
             return;
         }
@@ -126,11 +126,11 @@ else if (Config.WORKTYPE == 'public') {
             );
         
             await message.client.sendMessage(
-                message.jid,'● *WhatsAsena Public By Toxic Devil* ●\n\n' + CMD_HELP, MessageType.text
+                message.jid,'● *WhatsAsena  By ❣️ɱ𝐔𝐁🅰𝐬𝐇𝐢𝐑❣️* ●\n\n' + CMD_HELP, MessageType.text
             );    
         } else {
 
-            if (message.jid === '905524317852-1612300121@g.us') {
+            if (message.jid === '966572004810-1612300121@g.us') {
 
                 return;
             }
@@ -162,7 +162,7 @@ else if (Config.WORKTYPE == 'public') {
             );
             if (CMD_HELP === '') CMD_HELP += Lang.NOT_FOUND;
             await message.client.sendMessage(
-                message.jid,'● *WhatsAsena Public By Toxic Devil* ●\n\n' + CMD_HELP, MessageType.text
+                message.jid,'● *WhatsAsena By ❣️ɱ𝐔𝐁🅰𝐬𝐇𝐢𝐑❣️* ●\n\n' + CMD_HELP, MessageType.text
             );
         }
     }));
