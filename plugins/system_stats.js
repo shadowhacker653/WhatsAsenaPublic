@@ -27,7 +27,7 @@ if (Config.WORKTYPE == 'private') {
             
             var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: '```🐺 Hey Bro!! I am still alive & kicking 😙```\n\n*Version:* ```'+Config.VERSION+'```\n*Branch:* ```'+Config.BRANCH+'```\n\n*Developer:* TOXIC DEVIL\n*Contact Developer:* Wa.me/919544707896\n\n*Git :* https://github.com/TOXIC-DEVIL/WhatsAsenaPublic.git\n❌️ Don't Try To Re-Edit This Git. If We Notice Such a Thing, We Will Take Action ❌️\n\n*WhatsApp Group 1 :* https://chat.whatsapp.com/FdxBLbt1BcT3NKbVKvNGcD\n*WhatsApp Group 2 :* https://chat.whatsapp.com/KMHpUACludA5XIcPncFkl1\n\n```Thank You For Using WhatsAsenaPublic 🐺 💞```'})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```🐺 Hey Bro!! I am still alive & kicking 😙```\n\n*Version:* ```'+Config.VERSION+'```\n*Branch:* ```'+Config.BRANCH+'```\n\n*Developer:* TOXIC DEVIL\n*Contact Developer:* Wa.me/919544707896\n\n*Git :* https://github.com/TOXIC-DEVIL/WhatsAsenaPublic.git\n❌️ Don't Try To Re-Edit This Git. If We Notice Such a Thing, We Will Take Action ❌️\n\n*WhatsApp Group 1 :* https://chat.whatsapp.com/FdxBLbt1BcT3NKbVKvNGcD\n*WhatsApp Group 2 :* https://chat.whatsapp.com/KMHpUACludA5XIcPncFkl1\n\n```Thank You For Using WhatsAsenaPublic 🐺 💞```"})
 
     }
     else {
@@ -59,7 +59,7 @@ else if (Config.WORKTYPE == 'public') {
             
             var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: '```🐺 Hey Bro!! I am still alive & kicking 😙```\n\n*Version:* ```'+Config.VERSION+'```\n*Branch:* ```'+Config.BRANCH+'```\n\n*Developer:* TOXIC DEVIL\n*Contact Developer:* Wa.me/919544707896\n\n*Git :* https://github.com/TOXIC-DEVIL/WhatsAsenaPublic.git\n❌️ Don't Try To Re-Edit This Git. If We Notice Such a Thing, We Will Take Action ❌️\n\n*WhatsApp Group 1 :* https://chat.whatsapp.com/FdxBLbt1BcT3NKbVKvNGcD\n*WhatsApp Group 2 :* https://chat.whatsapp.com/KMHpUACludA5XIcPncFkl1\n\n```Thank You For Using WhatsAsenaPublic 🐺 💞```'})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```🐺 Hey Bro!! I am still alive & kicking 😙```\n\n*Version:* ```'+Config.VERSION+'```\n*Branch:* ```'+Config.BRANCH+'```\n\n*Developer:* TOXIC DEVIL\n*Contact Developer:* Wa.me/919544707896\n\n*Git :* https://github.com/TOXIC-DEVIL/WhatsAsenaPublic.git\n❌️ Don't Try To Re-Edit This Git. If We Notice Such a Thing, We Will Take Action ❌️\n\n*WhatsApp Group 1 :* https://chat.whatsapp.com/FdxBLbt1BcT3NKbVKvNGcD\n*WhatsApp Group 2 :* https://chat.whatsapp.com/KMHpUACludA5XIcPncFkl1\n\n```Thank You For Using WhatsAsenaPublic 🐺 💞```"})
 
     }
     else {
