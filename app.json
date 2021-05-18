@@ -93,6 +93,16 @@
             "required": false,
             "value": "default"
         },
+        "ALIVE_LOGO": {
+            "description": "Customizable Alive Logo! Use => https://i.ibb.co/hdb4VFH/IMG-20210516-WA0008.jpg, to change back.",
+            "required": true,
+            "value": "https://i.ibb.co/hdb4VFH/IMG-20210516-WA0008.jpg"
+        },
+        "ALIVE_MESSAGE": {
+            "description": "Customizable Alive Message! Use => default, to change back.",
+            "required": false,
+            "value": "default"
+        },
         "AFK_MESSAGE": {
             "description": "Customizable AFK Message! Use => default, to change back.",
             "required": false,
