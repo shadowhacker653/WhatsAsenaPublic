@@ -22,7 +22,6 @@ const Asena = require('../events')
 const { MessageType } = require('@adiwajshing/baileys')
 const axios = require('axios')
 const cn = require('../config');
-const Asena = require('../events');
 const got = require('got');
 const fs = require('fs');
 const IG_DESC = "Downloads Image/Video From Instagram"
