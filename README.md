@@ -1,3 +1,10 @@
+<h1 align = "center">
+
+`` diff
+-DON'T RE-EDIT THIS RESPIRATORY, IF WE NOTICE SUCH WE WILL TAKE A STRICT ACTION.
+``
+</h1>
+
 ### Jump To
 
 **■ To Know What is WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#What-Is-WhatsAsenaPublic)**
