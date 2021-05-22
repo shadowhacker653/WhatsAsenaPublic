@@ -1,10 +1,4 @@
-<h1 align = "center">
-
-`` YOU CAN RE EDIT OUR RESPIRATORY BUT OUR CREDITS MUST BE THEIR OR WE WILL TAKE STRICT ACTION.
-``
-</h1>
-
-### Jump To
+.### Jump To
 
 **■ To Know What is WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#What-Is-WhatsAsenaPublic)**
 
