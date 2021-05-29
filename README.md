@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://github.com/TOXIC-DEVIL/WhatsAsenaPublic">
     <img src="https://komarev.com/ghpvc/?username=TOXIC-DEVIL&label=Git%20Views&color=ff69b4&label=Profile+Views&style=plastic">
+----------------------------------------
 
 ### Jump To
 
