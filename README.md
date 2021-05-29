@@ -1,11 +1,3 @@
-##
-<p align="center">
-  <a href="https://github.com/TOXIC-DEVIL/WhatsAsenaPublic">
-    <img src="https://komarev.com/ghpvc/?username=TOXIC-DEVIL&label=Profile%20views&color=ff69b4&label=Git+Views&style=plastic">
-
-  </a>
-</p>
-
 ### Jump To
 
 **■ To Know What is WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#What-Is-WhatsAsenaPublic)**
