@@ -1,11 +1,7 @@
 ##
 <p align="center">
   <a href="https://github.com/TOXIC-DEVIL/WhatsAsenaPublic">
-    <img src="https://komarev.com/ghpvc/?username=TOXIC-DEVIL/WhatsAsenaPublic&label=Profile%20views&color=ff69b4&label=Git+Views&style=plastic">
-
-  </a>
-  <a href="https://github.com/TOXIC-DEVIL/WhatsAsenaPublic=stars">
-    <img src="https://img.shields.io/github/stars/TOXIC-DEVIL?color=ff69b4&label=Stargazers&style=plastic">
+    <img src="https://komarev.com/ghpvc/?username=TOXIC-DEVIL&label=Profile%20views&color=ff69b4&label=Git+Views&style=plastic">
 
   </a>
 </p>
