@@ -27,14 +27,14 @@ if (Config.WORKTYPE == 'private') {
             
             var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```🐺 Hey Bro!! I am still alive & kicking 😙```\n\n*Version:* ```1.0 Public Stable```\n*Branch:* ```master```\n\n*Developer:* TOXIC DEVIL\n*Contact Developer:* https://wa.me/994408728812\n\n*WhatsApp Group 1 :* https://chat.whatsapp.com/FdxBLbt1BcT3NKbVKvNGcD\n\n*WhatsApp Group 2 :* https://chat.whatsapp.com/KMHpUACludA5XIcPncFkl1\n\n```Thank You For Using WhatsAsenaPublic 🐺 💞```"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```🐺 Hey Bro!! I am still alive & kicking 😙```\n\n*Version:* ```1.0 Public Stable```\n\n*Branch:* ```master```\n\n*Developer:* ```TOXIC DEVIL```\n\n*WhatsApp Group 1 :* https://chat.whatsapp.com/FdxBLbt1BcT3NKbVKvNGcD\n\n*WhatsApp Group 2 :* https://chat.whatsapp.com/KMHpUACludA5XIcPncFkl1\n\n```Thank You For Using WhatsAsenaPublic 🐺 💞```"})
 
     }
     else {
             
             var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*Made By TOXIC DEVIL*\n*Contact Developer : https://wa.me/994408728812*' })
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*Made By TOXIC DEVIL*' })
      }
     }));
 
@@ -59,14 +59,14 @@ else if (Config.WORKTYPE == 'public') {
             
             var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```🐺 Hey Bro!! I am still alive & kicking 😙```\n\n*Version:* ```1.0 Public Stable```\n*Branch:* ```master```\n\n*Developer:* TOXIC DEVIL\n*Contact Developer:* https://wa.me/994408728812\n\n*WhatsApp Group 1 :* https://chat.whatsapp.com/FdxBLbt1BcT3NKbVKvNGcD\n\n*WhatsApp Group 2 :* https://chat.whatsapp.com/KMHpUACludA5XIcPncFkl1\n\n```Thank You For Using WhatsAsenaPublic 🐺 💞```"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```🐺 Hey Bro!! I am still alive & kicking 😙```\n\n*Version:* ```1.0 Public Stable```\n\n*Branch:* ```master```\n\n*Developer:* ```TOXIC DEVIL```\n\n*WhatsApp Group 1 :* https://chat.whatsapp.com/FdxBLbt1BcT3NKbVKvNGcD\n\n*WhatsApp Group 2 :* https://chat.whatsapp.com/KMHpUACludA5XIcPncFkl1\n\n```Thank You For Using WhatsAsenaPublic 🐺 💞```"})
 
     }
     else {
             
             var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*Made By TOXIC DEVIL*\n*Developer : https://wa.me/994408728812*' })
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*Made By TOXIC DEVIL*' })
      }
     }));
 
