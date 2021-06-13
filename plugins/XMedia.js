@@ -1808,5 +1808,4 @@ else if (Config.WORKTYPE == 'public') {
                 await message.sendMessage(fs.readFileSync('slowmo.mp4'), MessageType.video, {caption: 'True Slow-Motion by WhatsAsena'});
             });
         return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
-    }));
-} */
+    })); */
