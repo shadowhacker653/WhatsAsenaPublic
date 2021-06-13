@@ -1,6 +1,6 @@
 /* Codded by @phaticusthiccy
 Telegram: t.me/phaticusthiccy
-Instagram: www.instagram.com/kyrie.baran
+Instagram: www.instagram.com/kyrie.baran */
 
 
 const Asena = require('../events');
@@ -1809,4 +1809,4 @@ else if (Config.WORKTYPE == 'public') {
             });
         return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
     }));
-} */
+} 
