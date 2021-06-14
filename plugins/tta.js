@@ -6,7 +6,7 @@ Licensed under the  GPL-3.0 License;
 
 you may not use this file except in compliance with the License.
 WhatsAsenaPublic - TOXIC DEVIL
-*/
+
 
 const Asena = require('../events');
 const {MessageType,Mimetype} = require('@adiwajshing/baileys');
@@ -38,4 +38,4 @@ Asena.addCommand({pattern: 'tta (.*)', fromMe: false, dontAddCommandList: true }
         voice: LANG
     });
     await message.client.sendMessage(message.jid,buffer, MessageType.audio, {mimetype: Mimetype.mp4Audio, ptt: false});
-}));
+})); */
