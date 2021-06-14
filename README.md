@@ -10,9 +10,9 @@
 
 ### Special Thanks To:
 
-[@Phaticusthiccy](https://github.com/Phaticusthiccy)
+**[@Phaticusthiccy](https://github.com/Phaticusthiccy)**
 
-[@TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)
+**[@TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)**
 
 ### What Is WhatsAsenaPublic
 
