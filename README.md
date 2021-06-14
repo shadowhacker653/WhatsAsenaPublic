@@ -92,7 +92,7 @@ $ node qr.js
 ### WhatsNew
 
 ```
- .notes = Fixed notes ✅🛠
+ .unaudio = No More Private 😍
 
 ```
 
