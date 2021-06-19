@@ -16,15 +16,15 @@
 
 ### What Is WhatsAsenaPublic
 
-**▪︎The [Public Version](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic) Of [WhatsAsenaDuplicated](https://github.com/Phaticusthiccy/WhatsAsenaDuplicated) [ First Release which Deployed On Heroku ] 🐺**
+**▪︎ The [Public Version](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic) Of [WhatsAsenaDuplicated](https://github.com/Phaticusthiccy/WhatsAsenaDuplicated) [ First Release which Deployed On Heroku ] 🐺**
 
 **▪︎ You Have the All Rights To Re-Edit This Ropo**
 
-**▪︎Made By [TOXIC DEVIL](https://github.com/TOXIC-DEVIL)**
+**▪︎ Made By [TOXIC DEVIL](https://github.com/TOXIC-DEVIL)**
 
-**▪︎Added More Commands**
+**▪︎ Added More Commands**
 
-**▪︎Helper [Phaticusthiccy](https://github.com/Phaticusthiccy)**
+**▪︎ Helper [Phaticusthiccy](https://github.com/Phaticusthiccy)**
 
 ### How To Set Up WhatsAsenaPublic
 
