@@ -1,4 +1,4 @@
-# Contributing to Thiccy
+# Contributing to TOXIC-DEVIL
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. 
@@ -84,9 +84,7 @@ faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
 
-[Home Page](https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
-
-[Thiccy's Blog](https://phaticusthiccy.jimdofree.com)
+[Home Page](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic)
 
 ### Warning ⚠️
 
@@ -94,20 +92,3 @@ This project is open source. So you are responsible for the changes you make.
 It is your responsibility to use these codes. We are not responsible for any bad things you make.
 
 ##
-
-##### Sharing WhatsAsena on Social Medias
-
-> Users Allowed 
-
-```json
-{
-  "user_github": "https://github.com/dogubk",
-  "user_workmail": "doguhanonder34@gmail.com",
-  "user_publicmail": "dohuhanz@gmail.com"
-  },
-  "user_permissions" {
-    "allow": ["share, usage, support"],
-    "unallow": ["write, commit"]
-    {
-}
-```
