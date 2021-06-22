@@ -8,12 +8,6 @@
 
 **■ To Set Up WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#How-To-Set-Up-WhatsAsenaPublic)**
 
-### Show your support
-
-Give a **Star & Fork**, if this project helped you!
-
-***
-
 ### Special Thanks To:
 
 **[@Phaticusthiccy](https://github.com/Phaticusthiccy)**
@@ -76,6 +70,12 @@ the user is responsible.
 <p align = "center">
     WhatsAsenaPublic - Made By Toxic Devil.
     <br>
+
+### Show Your Support
+
+⭐️ Give a **Star & Fork**, if this project helped you! ⭐️
+
+***
 
 ### Simple Method
 
