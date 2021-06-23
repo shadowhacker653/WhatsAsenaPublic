@@ -95,6 +95,14 @@ $ node qr.js
 
 ##
 
+## Developer
+
+| [![TOXIC DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) |
+|----|
+| [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) |
+| Re-Developer, Base, Bug Fixes, Modules |
+
+
 ### WhatsNew
 
 ```
