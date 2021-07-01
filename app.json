@@ -13,7 +13,7 @@
             "required": true
         },
         "SUDO": {
-            "description": "Please Type ,0,91xxxx if the owner number is indian just replace xxxx to your number without +91. Sudo mode allows to share your bot to others as owner. You can add more than 1 owner using same method.",
+            "description": "Please Type ,0,94xxxx if the owner number is sri lanka just replace xxxx to your number without +94.",
             "required": false
         },
         "LANGUAGE": {
@@ -44,11 +44,7 @@
             "description": "Düzenlenebilir Mute Mesajı. Customizable Mute Message! Use => default, to change back.",
             "required": false,
             "value": "default"
-        },
-        "BLOCK_CHAT": {
-            "description": "Choose in which chat the bot won't work there. Ex: 905xxxx && 905xxxx-1xxx or 905xxxx,905xxx...",
-            "required": false,
-            "value": "false"
+      
         },
         "UNMUTE_MESSAGE": {
             "description": "Düzenlenebilir Unmute Mesajı. Customizable Unmute Message! Use => default, to change back.",
