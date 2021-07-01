@@ -21,7 +21,7 @@
 
 
 
-## Plugin Descriptions
+## Plugin Descriptions.
 
 | Command 💻 | Description ℹ️ |
 | ---------- | -------------------- |
