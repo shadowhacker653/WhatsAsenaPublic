@@ -88,11 +88,6 @@
             "required": false,
             "value": "default"
         },
-        "ALIVE_LOGO": {
-            "description": "Customizable Alive Logo! Use => https://telegra.ph/file/af526da6fe86231251273.jpg, to change back.",
-            "required": true,
-            "value": "https://telegra.ph/file/af526da6fe86231251273.jpg"
-        },
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
