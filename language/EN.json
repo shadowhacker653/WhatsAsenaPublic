@@ -157,7 +157,7 @@
         "removebg": {
             "REMOVEBG_DESC": "Removes the background of the photos.",
             "NEED_PHOTO": "*Give me a photo!*",
-            "NO_API_KEY": "*You don't have an API key!*\nYou can get it here: remove.bg.",
+            "NO_API_KEY": "*You don't have an API key!*",
             "RBGING": "```Removing background...```"
         },
         "scrapers": {
@@ -176,25 +176,25 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song eminem - rap god```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "```Downloading your song...```",
-            "UPLOADING_SONG": "```Uploading your song...```",
+            "DOWNLOADING_SONG": "*𝕂𝔸𝕎𝔼𝔼𝕊ℍ𝔸❤️⃝➤⃟̱̱̱̱̄̄̄̄ˢᵐᵃʳᵗ ᵇᵒᵗ🔥*\n```ඔබේ ගීතය 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 කරමින්  පවති...😘😘```",
+            "UPLOADING_SONG": "*𝕂𝔸𝕎𝔼𝔼𝕊ℍ𝔸❤️⃝➤⃟̱̱̱̱̄̄̄̄ˢᵐᵃʳᵗ ᵇᵒᵗ🔥*\n```ඔබේ ගීතය 𝐮𝐩𝐥𝐨𝐚𝐝 කරමින්  පවති...😘😘```",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```Downloading your video...```",
-            "UPLOADING_VIDEO": "```Uploading your video...```",
+            "DOWNLOADING_VIDEO": "*𝕂𝔸𝕎𝔼𝔼𝕊ℍ𝔸❤️⃝➤⃟̱̱̱̱̄̄̄̄ˢᵐᵃʳᵗ ᵇᵒᵗ🔥*\n```ඔබේ වීඩියෝව 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 කරමින් පවති...😘😘```",
+            "UPLOADING_VIDEO": "```*𝕂𝔸𝕎𝔼𝔼𝕊ℍ𝔸❤️⃝➤⃟̱̱̱̱̄̄̄̄ˢᵐᵃʳᵗ ᵇᵒᵗ🔥*\n```ඔබේ වීඩියෝව 𝐮𝐩𝐥𝐨𝐚𝐝 කරමින් පවති...😘😘``````",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
-            "GETTING_VIDEOS": "```I'm bringing videos...```",
+            "GETTING_VIDEOS": "*ඔබේ වීඩියෝ සොයමින්  පවතී...😘😘*",
             "NOT_FOUND": "*I couldn't find anything :(*",
-            "SEARCHING": "* 🔎 Searching...*",
-            "WIKI_DESC": "Searches query on Wikipedia.",
+            "SEARCHING": "*ඔබේ ඉල්ලූ තොරතුරු සොයමින්  පවතී...😘😘*",
+            "WIKI_DESC": "*ඔබේ ඉල්ලූ තොරතුරු සොයමින්  පවතී...😘😘*",
             "IMG_DESC": "Searches for related pics on Google.",
-            "IMG": "Uploading photo ```{}``` number ```{} ```..."
+            "IMG": "*𝕂𝔸𝕎𝔼𝔼𝕊ℍ𝔸❤️⃝➤⃟̱̱̱̱̄̄̄̄ˢᵐᵃʳᵗ ᵇᵒᵗ🔥*\n```ඡායාරූප {} ගණන {} upload කිරීම.```..."
         },
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Media downloading & converting to sticker...```"
+            "DOWNLOADING": "*Sticker බවට පරිවර්තනය කිරීම...😘😘*"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
