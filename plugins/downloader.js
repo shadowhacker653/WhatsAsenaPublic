@@ -36,7 +36,7 @@ Asena.addCommand({ pattern: 'ig ?(.*)', fromMe: false, desc: IG_DESC}, async (me
         })}
 		 	 
 	if (msg === 'video') { await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {
-          caption: "Made By WhatsAsenaPublic"
+          caption: "𝕂𝔸𝕎𝔼𝔼𝕊ℍ𝔸❤️⃝➤⃟̱̱̱̱̄̄̄̄ˢᵐᵃʳᵗ ᵇᵒᵗ🔥"
         })}
 	
         
@@ -71,7 +71,7 @@ Asena.addCommand({ pattern: 'fb ?(.*)', fromMe: false, desc: FBDESC }, async (me
         const msg = `*${CAPTION}*: ${judul}`
 
         await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {
-          caption: "Made By WhatsAsenaPublic"
+          caption: "𝕂𝔸𝕎𝔼𝔼𝕊ℍ𝔸❤️⃝➤⃟̱̱̱̱̄̄̄̄ˢᵐᵃʳᵗ ᵇᵒᵗ🔥"
         })
       })
       .catch(
