@@ -162,7 +162,7 @@ else if (Config.WORKTYPE == 'public') {
             );
             if (CMD_HELP === '') CMD_HELP += Lang.NOT_FOUND;
             await message.client.sendMessage(
-                message.jid,'*𝕂𝔸𝕎𝔼𝔼𝕊ℍ𝔸❤️⃝➤⃟̱̱̱̱̄̄̄̄ˢᵐᵃʳᵗ ᵇᵒᵗ🔥*\nMEMBER OF *☬ᴄyʙ⃢ᴇʀ ᴀʀ⃟ᴍy␍ ʀᴇᴘᴏʀᴛᴇʀꜱ\n\n' + CMD_HELP, MessageType.text
+                message.jid,'*𝕂𝔸𝕎𝔼𝔼𝕊ℍ𝔸❤️⃝➤⃟̱̱̱̱̄̄̄̄ˢᵐᵃʳᵗ ᵇᵒᵗ🔥*\nMEMBER OF *☬ᴄyʙ⃢ᴇʀ ᴀʀ⃟ᴍy␍ ʀᴇᴘᴏʀᴛᴇʀꜱ.\n\n' + CMD_HELP, MessageType.text
             );
         }
     }));
