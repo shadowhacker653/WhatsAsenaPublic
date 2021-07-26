@@ -1,159 +1,27 @@
-### Jump To
-
-**■ To Know What is WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#What-Is-WhatsAsenaPublic)**
-
-**■ To Know Features of WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#Features)**
-
-**■ To Know WhatsNew Updated last in WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#WhatsNew)**
-
-**■ To Set Up WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#How-To-Set-Up-WhatsAsenaPublic)**
-
 ### Special Thanks To:
 
-[@Phaticusthiccy](https://github.com/Phaticusthiccy)
+**[@Phaticusthiccy](https://github.com/Phaticusthiccy)**
 
-[@TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)
+**[@TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)**
 
-### What Is WhatsAsenaPublic
-
-**▪︎The [Public Version](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic) Of [WhatsAsenaDuplicated](https://github.com/Phaticusthiccy/WhatsAsenaDuplicated) [ First Release which Deployed On Heroku ] 🐺**
 
 **▪︎ You Have the All Rights To Re-Edit This Ropo**
 
-**▪︎Made By [TOXIC DEVIL](https://github.com/TOXIC-DEVIL)**
+**▪︎ Made By [TOXIC DEVIL](https://github.com/TOXIC-DEVIL)**
 
-**▪︎Added More Commands**
 
-**▪︎Helper [Phaticusthiccy](https://github.com/Phaticusthiccy)**
 
-### How To Set Up WhatsAsenaPublic
 
-**¤ To Set Up WhatsAsenaPublic Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#Simple-Method)**
+## Developer
 
-```
-Asena; Asena UserBot are names representing WhatsAsena software, they can be used interchangeably in the rest of the article.
+| [![TOXIC DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) |
+|----|
+| [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) |
+| Re-Developer, Base, Bug Fixes, Modules |
 
-WhatsAsena - Asena Userbot is Open Source software open to development. 
-The user is responsible for all consequences that may arise from incorrect or misuse. 
-Since it is an open source project, anyone can copy the software and make additions and deletions,
-can use it in the way that it has customized. In addition, plugin support,
-By installing the plug-ins written by the users into the original software, they can 
-It provides the feature to use them in a way.
-Its use is entirely at the user's own risk.
-Misuse of the bot will explicitly ban you.
-Asena Userbot is just an infrastructure. How to install programs
-If the operating system is not responsible for the work done, 
-WhatsAsena is also not responsible for the purpose and method of use of the users.
-Marketing WhatsAsena for money, making it available or having any monetary value
-It is strictly forbidden to offer it for sale with anything. From all legal investigations that may arise
-the user is responsible.
 
-WhatsAsena - Asena Userbot is Open Source software open to development. 
-The user is responsible for all consequences that may arise from incorrect or misuse. 
-Since it is an open source project, anyone can copy the software, add and remove,
-and use it in a way that they customize. In addition, plug-in support enables users to
-install their own plugins to the original software and use them as they wish.
-Using the bot out of purpose will explicitly ban you.
-Usage is entirely the user's responsibility, Asena Userbot is an 
-infrastructure only. Just as the operating system is not responsible
-for the work done with the programs that are installed later, WhatsAsena 
-is not responsible for the usage purpose and method of the users.
-Marketing WhatsAsena for money, making it available or having any material value
-It is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
-the user is responsible.
-```
 
-<div align = "center">
-  <img src = "https://i.ibb.co/9H56Ct5/20210305-083215.jpg" width = "200" height = "200">
-  <h1> 🐺 WhatsAsenaPublic </h1>
-</div>
-<p align = "center">
-    WhatsAsenaPublic - Made By Toxic Devil.
-    <br>
-
-### Simple Method
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-DEVIL/WhatsAsenaPublic)
-
-### The Hard Method
-``` js
-$ git clone https://github.com/TOXIC-DEVIL/WhatsAsenaPublic.git
-$ cd WhatsAsenaPublic
-$ npm i @adiwajshing/baileys
-$ npm i chalk
-$ node qr.js
-```
-
-##
-
-### WhatsNew
-
-```
- .notes = Fixed notes ✅🛠
-
-```
-
-### Features
-
-| All Features 📢 | Available ☑️ | Version 🔎 |
-| ------------- | ------------ | ---------- |
-| Admin Commands | ✅ | 1.0 |
-| AFK | ✅ | 1.2 |
-| AI Scanner | ✅ | 1.1 |
-| Add & Kick User | ✅ | 1.0 |
-| Carbon.sh Plugin | ✅ | 1.4 |
-| Deep AI APIs | ✅ | 1.0
-| Ban & Unban User | ✅ | 1.0 |
-| FFMPEG Support | ✅ | 1.6 |
-| Filter Support | ✅ | 1.2 |
-| Greetings Support | ✅ | 1.2 |
-| Group Link Generator | ✅ | 1.0 |
-| Heroku Plugin | ✅ | 1.5 |
-| Jid Scraper | ✅ | 1.0 |
-| Location Plugin | ✅ | 1.0 |
-| Lydia | ✅ | 1.2 |
-| Music Downloader | ✅ | 1.2 |
-| Meme Maker | ✅ | 1.0 |
-| Mute & Unmute Chat | ✅ | 1.3 |
-| Nekobin Plugin | ❌ | 1.0 |
-| OCR Plugin | ✅ | 1.2 |
-| Plugin Support | ✅ | 1.0 |
-| Pre-Trained Effects | ✅ | 3.2 |
-| Promote & Demote User | ✅ | 1.1 |
-| Remove BG Plugin | ✅ | 1.0 |
-| Youtube Downloader | ✅ | 1.2 |
-| Scam Actions | ✅ | 1.3 |
-| Scrapers | ✅ | 1.5 |
-| Spammer | ✅ | 1.4 |
-| Speedtest | 🛠️ | 1.6 |
-| Sticker Maker | ✅ | 1.0 |
-| Tagall | ✅ | 1.0 |
-| Google TTS | ✅ | 1.6 |
-| Unvoice | ✅ | 1.3 |
-| Web Screenshot Plugin | ✅ | 1.5 |
-| Wallpaper Plugin | ✅ | 1.4 |
-| randanime Plugin | ✅ | 1.6 |
-| nekoanime Plugin | ✅ | 1.6 |
-| Dice Game | ✅ | 1.6 |
-| Mood Game | ✅ | 1.6 |
-| effectimg Plugin | ✅ | 1.6 |
-| Glitch Plugin | ✅ | 1.6 |
-| UnderWater Plugin | ✅ | 1.6 |
-| Flower Plugin | ✅ | 1.6 |
-| Shadow Plugin | ✅ | 1.6 |
-| candy Plugin | ✅ | 1.6 |
-| Latte Plugin | ✅ | 1.6 |
-| Wood Plugin | ✅ | 1.6 |
-| 8bit Plugin | ✅ | 1.6 |
-| Harry Potter Plugin | ✅ | 1.6 |
-| Sparkling Plugin | ✅ | 1.6 |
-| WaterColour Plugin | ✅ | 1.6 |
-| Ninja Logo Plugin | ✅ | 1.6 |
-| NeonLight Plugin | ✅ | 1.6 |
-| 3dtext Plugin | ✅ | 1.6 |
-| burn Plugin | ✅ | 1.6 |
-
-## Plugin Descriptions
+## Plugin Descriptions.
 
 | Command 💻 | Description ℹ️ |
 | ---------- | -------------------- |
